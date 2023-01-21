@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MESA2022">
         <activity
+            android:name=".Recenter"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
