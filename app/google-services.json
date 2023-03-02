@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545193611752",
+    "project_id": "mesa2022-66aa9",
+    "storage_bucket": "mesa2022-66aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545193611752:android:33b1827fe838498060545d",
+        "android_client_info": {
+          "package_name": "com.example.mesa2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545193611752-mhn4eiv2tmqicu6n00vadd5ag1ml0kmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCynHg5L2BEcfLfmzOOVi6-J44hpsrPgwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545193611752-mhn4eiv2tmqicu6n00vadd5ag1ml0kmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
